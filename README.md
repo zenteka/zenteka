@@ -10,8 +10,8 @@ I support my work with Claude or my local AI coding agents.
 The code lives in the CSO Lab (UNIL) organisation and becomes public with our preprint.
 Live demo: [hicverse.unil.ch](https://hicverse.unil.ch)
 
-### Also
-- Self-hosted infrastructure
+### Also 
+- Self-hosted infrastructure: [SHIP] (https://github.com/zenteka/SHIP)
 - Earlier: neuroscience and synthetic biology (lab instruments, optogenetics)
 
 ### Stack
