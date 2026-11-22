@@ -11,10 +11,10 @@ The code lives in the CSO Lab (UNIL) organisation and becomes public with our pr
 Live demo: [hicverse.unil.ch](https://hicverse.unil.ch)
 
 ### Also
-- Self-hosted infrastructure: two nodes (CH + PL) on Tailscale, local LLMs, family services
+- Self-hosted infrastructure
 - Earlier: neuroscience and synthetic biology (lab instruments, optogenetics)
 
 ### Stack
-Python · SQL · Nextflow · Parquet · FastAPI · Angular · Docker · CI/CD · Linux · Claude Code
+Python · SQL · Nextflow · Parquet · FastAPI · Angular · Docker · CI/CD · Linux · Claude Code 
 
 📫 [karolpiera.com](https://karolpiera.com) · [LinkedIn](https://linkedin.com/in/karol-piera-2a4986153)
