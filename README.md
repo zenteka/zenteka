@@ -11,7 +11,7 @@ The code lives in the CSO Lab (UNIL) organisation and becomes public with our pr
 Live demo: [hicverse.unil.ch](https://hicverse.unil.ch)
 
 ### Also 
-- Self-hosted infrastructure: [SHIP] (https://github.com/zenteka/SHIP)
+- Self-hosted infrastructure: https://github.com/zenteka/SHIP
 - Earlier: neuroscience and synthetic biology (lab instruments, optogenetics)
 
 ### Stack
