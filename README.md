@@ -1,6 +1,6 @@
 # Hi, I'm Karol 👋
 
-Scientist and software/data engineer (PhD in Bioinformatics, UNIL).
+Scientist and data engineer (PhD in Bioinformatics, UNIL).
 I build data platforms and pipelines end to end.
 I support my work with Claude or my local AI coding agents.
 
